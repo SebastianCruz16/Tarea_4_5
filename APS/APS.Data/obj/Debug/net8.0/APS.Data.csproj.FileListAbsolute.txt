@@ -1,0 +1,56 @@
+C:\Users\User\source\repos\APS\APS.Data\bin\Debug\net8.0\APS.Data.deps.json
+C:\Users\User\source\repos\APS\APS.Data\bin\Debug\net8.0\APS.Data.runtimeconfig.json
+C:\Users\User\source\repos\APS\APS.Data\bin\Debug\net8.0\APS.Data.dll
+C:\Users\User\source\repos\APS\APS.Data\bin\Debug\net8.0\APS.Data.pdb
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\APS.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\APS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\APS.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\APS.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\APS.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\APS.Data.dll
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\refint\APS.Data.dll
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\APS.Data.pdb
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\APS.Data.genruntimeconfig.cache
+C:\Users\User\source\repos\APS\APS.Data\obj\Debug\net8.0\ref\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\bin\Debug\net8.0\APS.Data.deps.json
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\bin\Debug\net8.0\APS.Data.runtimeconfig.json
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\bin\Debug\net8.0\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\bin\Debug\net8.0\APS.Data.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\APS.Data.csproj.AssemblyReference.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\APS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\APS.Data.AssemblyInfoInputs.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\APS.Data.AssemblyInfo.cs
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\APS.Data.csproj.CoreCompileInputs.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\refint\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\APS.Data.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\APS.Data.genruntimeconfig.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Data\obj\Debug\net8.0\ref\APS.Data.dll
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\bin\Debug\net8.0\APS.Data.deps.json
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\bin\Debug\net8.0\APS.Data.runtimeconfig.json
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\bin\Debug\net8.0\APS.Data.dll
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\bin\Debug\net8.0\APS.Data.pdb
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.csproj.AssemblyReference.cache
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.AssemblyInfoInputs.cache
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.AssemblyInfo.cs
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.dll
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\refint\APS.Data.dll
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.pdb
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.genruntimeconfig.cache
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\ref\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\bin\Debug\net8.0\APS.Data.deps.json
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\bin\Debug\net8.0\APS.Data.runtimeconfig.json
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\bin\Debug\net8.0\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\bin\Debug\net8.0\APS.Data.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.csproj.AssemblyReference.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.AssemblyInfoInputs.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.AssemblyInfo.cs
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.csproj.CoreCompileInputs.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\refint\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\APS.Data.genruntimeconfig.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Data\obj\Debug\net8.0\ref\APS.Data.dll

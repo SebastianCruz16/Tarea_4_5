@@ -1,0 +1,64 @@
+C:\Users\User\source\repos\APS\APS.Security\bin\Debug\net8.0\APS.Security.deps.json
+C:\Users\User\source\repos\APS\APS.Security\bin\Debug\net8.0\APS.Security.dll
+C:\Users\User\source\repos\APS\APS.Security\bin\Debug\net8.0\APS.Security.pdb
+C:\Users\User\source\repos\APS\APS.Security\bin\Debug\net8.0\APS.Data.dll
+C:\Users\User\source\repos\APS\APS.Security\bin\Debug\net8.0\APS.Data.pdb
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\APS.Security.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\APS.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\APS.Security.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\APS.Security.AssemblyInfo.cs
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\APS.Security.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\APS.Secu.628B4156.Up2Date
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\APS.Security.dll
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\refint\APS.Security.dll
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\APS.Security.pdb
+C:\Users\User\source\repos\APS\APS.Security\obj\Debug\net8.0\ref\APS.Security.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\bin\Debug\net8.0\APS.Security.deps.json
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\bin\Debug\net8.0\APS.Security.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\bin\Debug\net8.0\APS.Security.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\bin\Debug\net8.0\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\bin\Debug\net8.0\APS.Data.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\APS.Security.csproj.AssemblyReference.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\APS.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\APS.Security.AssemblyInfoInputs.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\APS.Security.AssemblyInfo.cs
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\APS.Security.csproj.CoreCompileInputs.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\APS.Secu.628B4156.Up2Date
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\APS.Security.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\refint\APS.Security.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\APS.Security.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea 4 y 5\Tarea 4 y 5\APS\APS.Security\obj\Debug\net8.0\ref\APS.Security.dll
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Security.deps.json
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Security.runtimeconfig.json
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Security.dll
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Security.pdb
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Data.dll
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Data.pdb
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.csproj.AssemblyReference.cache
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.AssemblyInfoInputs.cache
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.AssemblyInfo.cs
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Secu.628B4156.Up2Date
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.dll
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\refint\APS.Security.dll
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.pdb
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.genruntimeconfig.cache
+C:\Users\alexe\Downloads\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\ref\APS.Security.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Security.deps.json
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Security.runtimeconfig.json
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Security.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Security.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Data.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\bin\Debug\net8.0\APS.Data.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.csproj.AssemblyReference.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.AssemblyInfoInputs.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.AssemblyInfo.cs
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.csproj.CoreCompileInputs.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Secu.628B4156.Up2Date
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\refint\APS.Security.dll
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.pdb
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\APS.Security.genruntimeconfig.cache
+C:\Users\MacUser16\Desktop\FIDELITAS_PROGRA_AVANZADA\Tarea_4_5_SebastianCruz\Tarea_4_5_SebastianCruz\APS\APS.Security\obj\Debug\net8.0\ref\APS.Security.dll

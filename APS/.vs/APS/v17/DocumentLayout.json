@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E858E848-C962-4C74-BCF2-706D965AFDD1}|APS.Data\\APS.Data.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.data\\securityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E858E848-C962-4C74-BCF2-706D965AFDD1}|APS.Data\\APS.Data.csproj|solutionrelative:aps.data\\securityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\architecture\\repositoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\architecture\\repositoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E858E848-C962-4C74-BCF2-706D965AFDD1}|APS.Data\\APS.Data.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.data\\models\\apdatadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E858E848-C962-4C74-BCF2-706D965AFDD1}|APS.Data\\APS.Data.csproj|solutionrelative:aps.data\\models\\apdatadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\filters\\customauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\filters\\customauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D90875-A896-4CFE-8780-A71021D56AB9}|APS.Security\\APS.Security.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.security\\applysecurityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D90875-A896-4CFE-8780-A71021D56AB9}|APS.Security\\APS.Security.csproj|solutionrelative:aps.security\\applysecurityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D90875-A896-4CFE-8780-A71021D56AB9}|APS.Security\\APS.Security.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.security\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D90875-A896-4CFE-8780-A71021D56AB9}|APS.Security\\APS.Security.csproj|solutionrelative:aps.security\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E858E848-C962-4C74-BCF2-706D965AFDD1}|APS.Data\\APS.Data.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E858E848-C962-4C74-BCF2-706D965AFDD1}|APS.Data\\APS.Data.csproj|solutionrelative:aps.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\aps.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\aps.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E858E848-C962-4C74-BCF2-706D965AFDD1}|APS.Data\\APS.Data.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.data\\aps.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E858E848-C962-4C74-BCF2-706D965AFDD1}|APS.Data\\APS.Data.csproj|solutionrelative:aps.data\\aps.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|c:\\users\\macuser16\\desktop\\fidelitas_progra_avanzada\\tarea_4_5_sebastiancruz\\tarea_4_5_sebastiancruz\\aps\\aps.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D373D78A-6988-40AB-8D40-71B99A67FE57}|APS.Web\\APS.Web.csproj|solutionrelative:aps.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "APS.Web\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "APS.Web\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:51:39.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApdatadbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Data\\Models\\ApdatadbContext.cs",
+              "RelativeDocumentMoniker": "APS.Data\\Models\\ApdatadbContext.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Data\\Models\\ApdatadbContext.cs",
+              "RelativeToolTip": "APS.Data\\Models\\ApdatadbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA1wCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:49:52.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Architecture\\RepositoryConfiguration.cs",
+              "RelativeDocumentMoniker": "APS.Web\\Architecture\\RepositoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Architecture\\RepositoryConfiguration.cs",
+              "RelativeToolTip": "APS.Web\\Architecture\\RepositoryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:49:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Data\\SecurityRepository.cs",
+              "RelativeDocumentMoniker": "APS.Data\\SecurityRepository.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Data\\SecurityRepository.cs",
+              "RelativeToolTip": "APS.Data\\SecurityRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwC8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:50:44.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Program.cs",
+              "RelativeDocumentMoniker": "APS.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Program.cs",
+              "RelativeToolTip": "APS.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:56:18.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "APS.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\appsettings.json",
+              "RelativeToolTip": "APS.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T01:55:39.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APS.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\appsettings.Development.json",
+              "RelativeToolTip": "APS.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T03:07:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomAuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Filters\\CustomAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "APS.Web\\Filters\\CustomAuthorizationFilter.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Filters\\CustomAuthorizationFilter.cs",
+              "RelativeToolTip": "APS.Web\\Filters\\CustomAuthorizationFilter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:50:52.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "APS.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "APS.Web\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:51:52.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Security\\SecurityService.cs",
+              "RelativeDocumentMoniker": "APS.Security\\SecurityService.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Security\\SecurityService.cs",
+              "RelativeToolTip": "APS.Security\\SecurityService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:00:02.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplySecurityValidation.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Security\\ApplySecurityValidation.cs",
+              "RelativeDocumentMoniker": "APS.Security\\ApplySecurityValidation.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Security\\ApplySecurityValidation.cs",
+              "RelativeToolTip": "APS.Security\\ApplySecurityValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:00:11.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Data\\Repository.cs",
+              "RelativeDocumentMoniker": "APS.Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Data\\Repository.cs",
+              "RelativeToolTip": "APS.Data\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:59:55.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "APS.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\APS.Web.csproj",
+              "RelativeDocumentMoniker": "APS.Web\\APS.Web.csproj",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\APS.Web.csproj",
+              "RelativeToolTip": "APS.Web\\APS.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T02:54:20.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "APS.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Data\\APS.Data.csproj",
+              "RelativeDocumentMoniker": "APS.Data\\APS.Data.csproj",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Data\\APS.Data.csproj",
+              "RelativeToolTip": "APS.Data\\APS.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T01:54:19.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "APS.Web\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "APS.Web\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:51:05.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "APS.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "APS.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T02:52:00.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "APS.Web\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "APS.Web\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T02:52:11.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "APS.Web\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Models\\LoginModel.cs",
+              "RelativeToolTip": "APS.Web\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:51:04.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Views\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "APS.Web\\Views\\Accounts\\Register.cshtml",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Views\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "APS.Web\\Views\\Accounts\\Register.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T01:48:51.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "APS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "APS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T02:21:55.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "APS.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MacUser16\\Desktop\\FIDELITAS_PROGRA_AVANZADA\\Tarea_4_5_SebastianCruz\\Tarea_4_5_SebastianCruz\\APS\\APS.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "APS.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T02:21:37.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
